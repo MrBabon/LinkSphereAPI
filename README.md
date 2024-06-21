@@ -36,7 +36,7 @@ Things you may want to cover:
 ``` Terminal
 bundle
 ```
-* Aller sur la loupe de VSCODE et rechercher rails_devise_jwt_template dans la premiere barre de recherche et dans la deuxieme "Remplace" mettre le nom du nouveau projet "test" dans cette exemple
+* Aller sur la loupe de VSCODE et rechercher linksphereapi dans la premiere barre de recherche et dans la deuxieme "Remplace" mettre le nom du nouveau projet "test" dans cette exemple
 ## ATTENTION
 * si le nouveau projet ce nomme par exemple "rails-new-test" dans remplace mettre "rails_new_test" !
 * Cela ouvrira un popup disant qu'il va avoir 8 occurences qui vont changer et faire changer

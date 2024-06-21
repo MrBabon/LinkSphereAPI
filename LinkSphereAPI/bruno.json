@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "LinkSphereAPI",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
